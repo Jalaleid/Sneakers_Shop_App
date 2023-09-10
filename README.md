@@ -1,16 +1,5 @@
-# sneakers_shop_app
+A Sneakers Shop App with animation using Flutter is a mobile application that uses the Flutter framework to build a user interface and the animation to create engaging and interactive experiences. The app can display a list of sneakers, It can also use animations to make the app more visually appealing and engaging.
 
-A new Flutter project.
+Here are some of the animations that can be used in a Sneakers Shop App:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Product list animation: The product list can be animated to slide in from the left or right, or to fade in.
